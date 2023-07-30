@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Shared\Category\" />
+    <Folder Include="Views\Shared\Home\" />
+    <Folder Include="Views\Shared\Detail\" />
+    <Folder Include="Views\Shared\Auth\" />
+    <Folder Include="Views\Shared\Page\" />
+    <Folder Include="Views\Shared\Search\" />
+  </ItemGroup>
+
+</Project>
